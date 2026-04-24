@@ -49,7 +49,7 @@ function groupByCountry(people) {
     console.log(groupedPeopleArray)
 }
 
-function groupByCountry1(people) {
+function groupByCountry1(people) { 
     let sortedPeople = []
 
     for (let i= 0; i < people.length; i++) {
